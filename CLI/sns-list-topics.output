@@ -1,0 +1,43 @@
+{
+    "Topics": [
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:AutoscaleNotifier"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:CloudWatchAlarmsForCloudTrail-AlarmNotificationTopic-4SYDDLARZMAH"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:CloudWatchSecurityAlerts"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:Pangea-Topic"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:TS_AutoScale_Alert_Group"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:config-topic"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:email_issue"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:gcs_email_bounce"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:lp_email_bounce"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:rtf_email_bounce"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:t4c_email_bounce"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:ts_email_bounce"
+        },
+        {
+            "TopicArn": "arn:aws:sns:us-west-2:155403084636:tsc_email_bounce"
+        }
+    ]
+}

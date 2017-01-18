@@ -1,0 +1,15 @@
+us-west-2	ami-5ec1673e	amzn-ami-hvm-2016.09.0.20161028-x86_64-gp2	Amazon Linux AMI 2016.09.0.20161028 x86_64 HVM GP2
+us-west-2	ami-b04e92d0	amzn-ami-hvm-2016.09.0.20160923-x86_64-gp2	Amazon Linux AMI 2016.09.0.20160923 x86_64 HVM GP2
+us-west-2	ami-7172b611	amzn-ami-hvm-2016.03.3.x86_64-gp2	Amazon Linux AMI 2016.03.3 x86_64 HVM GP2
+us-west-2	ami-f303fb93	amzn-ami-hvm-2016.03.2.x86_64-gp2	Amazon Linux AMI 2016.03.2 x86_64 HVM GP2
+us-west-2	ami-d0f506b0	amzn-ami-hvm-2016.03.1.x86_64-gp2	Amazon Linux AMI 2016.03.1 x86_64 HVM GP2
+us-west-2	ami-c229c0a2	amzn-ami-hvm-2016.03.0.x86_64-gp2	Amazon Linux AMI 2016.03.0 x86_64 HVM GP2
+us-west-2	ami-63b25203	amzn-ami-hvm-2015.09.2.x86_64-gp2	Amazon Linux AMI 2015.09.2 x86_64 HVM GP2
+us-west-2	ami-f0091d91	amzn-ami-hvm-2015.09.1.x86_64-gp2	Amazon Linux AMI 2015.09.1 x86_64 HVM GP2
+us-west-2	ami-9ff7e8af	amzn-ami-hvm-2015.09.0.x86_64-gp2	Amazon Linux AMI 2015.09.0 x86_64 HVM GP2
+us-west-2	ami-d5c5d1e5	amzn-ami-hvm-2015.03.1.x86_64-gp2	Amazon Linux AMI 2015.03.1 x86_64 HVM GP2
+us-west-2	ami-e7527ed7	amzn-ami-hvm-2015.03.0.x86_64-gp2	Amazon Linux AMI 2015.03.0 x86_64 HVM GP2
+us-west-2	ami-c1c39af1	amzn-ami-hvm-2014.09.2.x86_64-gp2	Amazon Linux AMI 2014.09.2 x86_64 HVM GP2
+us-west-2	ami-b1a7ea81	amzn-ami-hvm-2014.09.1.x86_64-gp2	Amazon Linux AMI 2014.09.1 x86_64 HVM GP2
+us-west-2	ami-8586c6b5	amzn-ami-hvm-2014.09.0.x86_64-gp2	Amazon Linux AMI 2014.09.0 x86_64 HVM GP2
+us-west-2	ami-8f6815bf	amzn-ami-hvm-2014.03.2.x86_64-gp2	Amazon Linux AMI 2014.03.2 x86_64 HVM GP2

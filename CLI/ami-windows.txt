@@ -1,0 +1,417 @@
+us-west-2	ami-93fc55f3	Windows_Server-2016-English-Nano-Base-2016.11.23	Microsoft Windows Server 2016 Nano Locale English AMI provided by Amazon
+us-west-2	ami-bdb618dd	Windows_Server-2016-English-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale English AMI provided by Amazon
+us-west-2	ami-55b61835	Windows_Server-2016-Portuguese_Portugal-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Portuguese_Portugal AMI provided by Amazon
+us-west-2	ami-36b51b56	Windows_Server-2016-French-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale French AMI provided by Amazon
+us-west-2	ami-fbb6189b	Windows_Server-2016-Hungarian-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Hungarian AMI provided by Amazon
+us-west-2	ami-31b41a51	Windows_Server-2016-Chinese_Traditional-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Chinese_Traditional AMI provided by Amazon
+us-west-2	ami-05b71965	Windows_Server-2016-Polish-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Polish AMI provided by Amazon
+us-west-2	ami-e7b61887	Windows_Server-2016-Turkish-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Turkish AMI provided by Amazon
+us-west-2	ami-d4b917b4	Windows_Server-2016-Korean-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Korean AMI provided by Amazon
+us-west-2	ami-a1b41ac1	Windows_Server-2016-German-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale German AMI provided by Amazon
+us-west-2	ami-c4b816a4	Windows_Server-2016-Dutch-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Dutch AMI provided by Amazon
+us-west-2	ami-e0b61880	Windows_Server-2016-Portuguese_Brazil-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Portuguese_Brazil AMI provided by Amazon
+us-west-2	ami-acb41acc	Windows_Server-2016-Italian-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Italian AMI provided by Amazon
+us-west-2	ami-c0b816a0	Windows_Server-2016-Spanish-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Spanish AMI provided by Amazon
+us-west-2	ami-19b51b79	Windows_Server-2016-Swedish-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Swedish AMI provided by Amazon
+us-west-2	ami-dbb816bb	Windows_Server-2016-Czech-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Czech AMI provided by Amazon
+us-west-2	ami-d5bb15b5	Windows_Server-2016-Chinese_Simplified-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Chinese_Simplified AMI provided by Amazon
+us-west-2	ami-c8b816a8	Windows_Server-2016-Japanese-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Japanese AMI provided by Amazon
+us-west-2	ami-44b61824	Windows_Server-2016-Russian-Full-Base-2016.11.23	Microsoft Windows Server 2016 with Desktop Experience Locale Russian AMI provided by Amazon
+us-west-2	ami-b4b719d4	Windows_Server-2016-English-Full-Containers-2016.11.23	Microsoft Windows Server 2016 with Containers Locale English AMI provided by Amazon
+us-west-2	ami-4db41b2d	Windows_Server-2016-English-Full-SQL_2016_Express-2016.11.23	Microsoft Windows Server 2016 Locale English with SQL Express 2016 AMI provided by Amazon
+us-west-2	ami-08b21d68	Windows_Server-2016-English-Full-SQL_2016_Web-2016.11.23	Microsoft Windows Server 2016 Locale English with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-d6b718b6	Windows_Server-2016-English-Full-SQL_2016_Standard-2016.11.23	Microsoft Windows Server 2016 Locale English with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-d0b817b0	Windows_Server-2016-English-Full-SQL_2016_Enterprise-2016.11.23	Microsoft Windows Server 2016 Locale English with SQL Enterprise 2016 AMI provided by Amazon
+us-west-2	ami-bccd62dc	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Standard-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Portuguese with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-bbcd62db	Windows_Server-2008-R2_SP1-Language_Packs-64Bit-SQL_2008_R2_SP3_Standard-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Multi-language with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-b3f05fd3	Windows_Server-2008-R2_SP1-Language_Packs-64Bit-SQL_2008_R2_SP3_Express-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Multi-Language with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-bbce61db	Windows_Server-2008-R2_SP1-Language_Packs-64Bit-Base-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Multi-language AMI provided by Amazon
+us-west-2	ami-bdf05fdd	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2012_SP2_Standard-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-97f25df7	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2012_SP2_Express-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-a1ce61c1	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2008_R2_SP3_Web-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Web 2008 R2 AMI provided by Amazon
+us-west-2	ami-a0cd62c0	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2008_R2_SP3_Standard-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-45f05f25	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2008_R2_SP3_Express-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Express 2008 AMI provided by Amazon
+us-west-2	ami-1dcd627d	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_SP2_Web-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Web 2012 2012 64-bit provided by Amazon
+us-west-2	ami-9ff25dff	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_SP2_Standard-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-1fcd627f	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_SP2_Express-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-91cf60f1	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_RTM_SP2_Enterprise-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Enterprise 2012 SP2 AMI provided by Amazon
+us-west-2	ami-58cf6038	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2008_R2_SP3_Web-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Web 2008 R2 AMI provided by Amazon
+us-west-2	ami-87f25de7	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2008_R2_SP3_Standard-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit English with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-4ef05f2e	Windows_Server-2008-R2_SP1-English-64Bit-SharePoint_2010_SP2_Foundation-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SharePoint Foundation 2010 SP1
+us-west-2	ami-fef35c9e	Windows_Server-2012-RTM-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Standard-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Brazilian with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-3cf15e5c	Windows_Server-2012-RTM-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Express-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Brazilian with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-ecf35c8c	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2014_SP1_Web-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-8cf45bec	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2014_SP1_Standard-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-27f15e47	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2014_SP1_Express-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-8ff45bef	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2012_SP2_Web-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Web 2012 AMI provided by Amazon
+us-west-2	ami-caf55aaa	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2012_SP2_Standard-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-8ef45bee	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2012_SP2_Express-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-baf35cda	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2008_R2_SP3_Standard-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-a8f25dc8	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2008_R2_SP3_Express-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-2cf15e4c	Windows_Server-2012-RTM-English-64Bit-SQL_2014_SP1_Web-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-64f15e04	Windows_Server-2012-RTM-English-64Bit-SQL_2014_SP1_Standard-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-57f35c37	Windows_Server-2012-RTM-English-64Bit-SQL_2014_SP1_Express-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-90f659f0	Windows_Server-2012-RTM-English-64Bit-SQL_2012_SP2_Web-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Web 2012 AMI provided by Amazon
+us-west-2	ami-e6f45b86	Windows_Server-2012-RTM-English-64Bit-SQL_2012_SP2_Standard-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-4df6592d	Windows_Server-2012-RTM-English-64Bit-SQL_2012_SP2_Express-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-dff758bf	Windows_Server-2012-RTM-English-64Bit-SQL_2008_R2_SP3_Web-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Web 2008 R2 AMI provided by Amazon
+us-west-2	ami-3cf45b5c	Windows_Server-2012-RTM-English-64Bit-SQL_2008_R2_SP3_Standard-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-e0f85780	Windows_Server-2012-RTM-English-64Bit-SQL_2008_R2_SP3_Express-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-77f65917	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2016_Web-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-2bf55a4b	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2016_Standard-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-f0f95690	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2016_Express-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-78f65918	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2014_SP1_Web-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-13fa5573	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2014_SP1_Standard-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian AMI provided by Amazon
+us-west-2	ami-fcf9569c	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2014_SP1_Express-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian AMI provided by Amazon
+us-west-2	ami-99fc53f9	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2016_Web-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-bcf857dc	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2016_Standard-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-ddfb54bd	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2016_Express-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Express 2016 AMI provided by Amazon
+us-west-2	ami-effc538f	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2014_SP1_Web-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-d9fb54b9	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2014_SP1_Standard-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-8ffb54ef	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2014_SP1_Express-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-cffb54af	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Web-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-cefb54ae	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Standard-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-c8fb54a8	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Express-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Express 2016 AMI provided by Amazon
+us-west-2	ami-0dfa556d	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Enterprise-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Enterprise 2016 AMI provided by Amazon
+us-west-2	ami-0cf8576c	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Web-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-c5fe51a5	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Standard-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-aff857cf	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Express-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-f7fe5197	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Enterprise-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Enterprise 2014 AMI provided by Amazon
+us-west-2	ami-eefe518e	Windows_Server-2008-SP2-Portuguese_Brazil-64bit-SQL_2008_SP4_Standard-2016.11.23	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Local Portuguese with SQL Standard 2008 AMI provided by Amazon
+us-west-2	ami-01f95661	Windows_Server-2008-SP2-Portuguese_Brazil-64Bit-SQL_2008_SP4_Express-2016.11.23	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Local Portuguese with SQL Express 2008 AMI provided by Amazon
+us-west-2	ami-effb548f	Windows_Server-2008-SP2-Portuguese_Brazil-64Bit-Base-2016.11.23	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Local Portuguese Base AMI provided by Amazon
+us-west-2	ami-1afc537a	Windows_Server-2008-SP2-English-64Bit-SQL_2008_SP4_Standard-2016.11.23	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Locale English with SQL Standard 2008 AMI provided by Amazon
+us-west-2	ami-7ffb541f	Windows_Server-2008-SP2-English-64Bit-SQL_2008_SP4_Express-2016.11.23	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Locale English with SQL Express 2008 AMI provided by Amazon
+us-west-2	ami-27f95647	Windows_Server-2008-SP2-English-64Bit-Base-2016.11.23	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Locale English Base AMI provided by Amazon
+us-west-2	ami-0bf9566b	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Express-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Portuguese with SQL Express 2008 R2 and IIS AMI provided by Amazon
+us-west-2	ami-00fc5360	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-Base-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Local Portuguese Base AMI provided by Amazon
+us-west-2	ami-7efa551e	Windows_Server-2008-R2_SP1-Korean-64Bit-Base-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Korean with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-7efd521e	Windows_Server-2008-R2_SP1-Japanese-64Bit-Base-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese Base AMI provided by Amazon
+us-west-2	ami-d0fd52b0	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2008_R2_SP3_Express-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Express 2008 R2 and IIS AMI provided by Amazon
+us-west-2	ami-53ff5033	Windows_Server-2008-R2_SP1-Chinese_PRC-64Bit-Base-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Chinese PRC Base AMI provided by Amazon
+us-west-2	ami-1efb547e	Windows_Server-2008-R2_SP1-Chinese_Hong_Kong_SAR-64Bit-Base-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Chinese Hong Kong SAR Base AMI provided by Amazon
+us-west-2	ami-effd528f	Windows_Server-2012-RTM-Turkish-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Turkish Base AMI provided by Amazon
+us-west-2	ami-8de04fed	Windows_Server-2012-RTM-Swedish-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Swedish Base AMI provided by Amazon
+us-west-2	ami-2cfd524c	Windows_Server-2012-RTM-Spanish-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Spanish Base AMI provided by Amazon
+us-west-2	ami-fee24d9e	Windows_Server-2012-RTM-Russian-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Russian Base AMI provided by Amazon
+us-west-2	ami-69ff5009	Windows_Server-2012-RTM-Portuguese_Portugal-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Portuguese Base AMI provided by Amazon
+us-west-2	ami-5be04f3b	Windows_Server-2012-RTM-Portuguese_Brazil-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Portuguese Base AMI provided by Amazon
+us-west-2	ami-45e04f25	Windows_Server-2012-RTM-Polish-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Polish Base AMI provided by Amazon
+us-west-2	ami-27fe5147	Windows_Server-2012-RTM-Korean-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Korean Base AMI provided by Amazon
+us-west-2	ami-e7e24d87	Windows_Server-2012-RTM-Japanese-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese Base AMI provided by Amazon
+us-west-2	ami-cfe14eaf	Windows_Server-2012-RTM-Italian-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Italian Base AMI provided by Amazon
+us-west-2	ami-abff50cb	Windows_Server-2012-RTM-Hungarian-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Hungarian Base AMI provided by Amazon
+us-west-2	ami-9be24dfb	Windows_Server-2012-RTM-German-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale German Base AMI provided by Amazon
+us-west-2	ami-2cfe514c	Windows_Server-2012-RTM-French-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale French Base AMI provided by Amazon
+us-west-2	ami-29fe5149	Windows_Server-2012-RTM-English-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale English Base AMI provided by Amazon
+us-west-2	ami-48e14e28	Windows_Server-2012-RTM-Dutch-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Dutch Base AMI provided by Amazon
+us-west-2	ami-4ae04f2a	Windows_Server-2012-RTM-Czech-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Czech Base AMI provided by Amazon
+us-west-2	ami-c4e34ca4	Windows_Server-2012-RTM-Chinese_Traditional-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Chinese Traditional Base AMI provided by Amazon
+us-west-2	ami-a3e04fc3	Windows_Server-2012-RTM-Chinese_Traditional_Hong_Kong_SAR-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Chinese Traditional Hong Kong Base AMI provided by Amazon
+us-west-2	ami-37ff5057	Windows_Server-2012-RTM-Chinese_Simplified-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 RTM 64-bit Locale Chinese Simplified Base AMI provided by Amazon
+us-west-2	ami-93e34cf3	Windows_Server-2012-R2_RTM-Turkish-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Turkish AMI provided by Amazon
+us-west-2	ami-fee14e9e	Windows_Server-2012-R2_RTM-Swedish-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Swedish AMI provided by Amazon
+us-west-2	ami-05e04f65	Windows_Server-2012-R2_RTM-Spanish-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Spanish AMI provided by Amazon
+us-west-2	ami-1afd527a	Windows_Server-2012-R2_RTM-Russian-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Russian AMI provided by Amazon
+us-west-2	ami-1eff507e	Windows_Server-2012-R2_RTM-Portuguese_Portugal-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Portuguese AMI provided by Amazon
+us-west-2	ami-25ff5045	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian AMI provided by Amazon
+us-west-2	ami-57e54a37	Windows_Server-2012-R2_RTM-Polish-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Polish AMI provided by Amazon
+us-west-2	ami-60ff5000	Windows_Server-2012-R2_RTM-Korean-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Korean AMI provided by Amazon
+us-west-2	ami-bee24dde	Windows_Server-2012-R2_RTM-Japanese-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese AMI provided by Amazon
+us-west-2	ami-9ce44bfc	Windows_Server-2012-R2_RTM-Italian-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Italian AMI provided by Amazon
+us-west-2	ami-9fe54aff	Windows_Server-2012-R2_RTM-Hungarian-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Hungarian AMI provided by Amazon
+us-west-2	ami-22ff5042	Windows_Server-2012-R2_RTM-German-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale German AMI provided by Amazon
+us-west-2	ami-c5e649a5	Windows_Server-2012-R2_RTM-French-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale French AMI provided by Amazon
+us-west-2	ami-09e14e69	Windows_Server-2012-R2_RTM-Dutch-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Dutch AMI provided by Amazon
+us-west-2	ami-0ae14e6a	Windows_Server-2012-R2_RTM-Czech-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Czech AMI provided by Amazon
+us-west-2	ami-96e748f6	Windows_Server-2012-R2_RTM-Chinese_Traditional-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Chinese Traditional AMI provided by Amazon
+us-west-2	ami-aee14ece	Windows_Server-2012-R2_RTM-Chinese_Traditional_Hong_Kong-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Chinese Traditional Hong Kong AMI provided by Amazon
+us-west-2	ami-42e34c22	Windows_Server-2012-R2_RTM-Chinese_Simplified-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Chinese Simplified AMI provided by Amazon
+us-west-2	ami-59e44b39	Windows_Server-2008-R2_SP1-English-64Bit-Core_SQL_2012_SP2_Standard-2016.11.23	Microsoft Windows Server 2008 R2 Core SP1 Datacenter 64-bit Locale English AMI provided by Amazon
+us-west-2	ami-18e54a78	Windows_Server-2008-R2_SP1-English-64Bit-Base-2016.11.23	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English Base AMI provided by Amazon
+us-west-2	ami-6ce54a0c	Windows_Server-2012-R2_RTM-English-64Bit-Core-2016.11.23	Windows_Server-2012-R2_RTM-English-64Bit-Core-2016.11.23
+us-west-2	ami-24e64944	Windows_Server-2012-R2_RTM-English-64Bit-Base-2016.11.23	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English AMI provided by Amazon
+us-west-2	ami-8bea45eb	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-Core-2016.11.23	Microsoft Windows Server 2008 R2 Core SP1 Datacenter 64-bit Local Portuguese AMI provided by Amazon
+us-west-2	ami-70e84710	Windows_Server-2008-R2_SP1-English-64Bit-Core-2016.11.23	Windows_Server-2008-R2_SP1-English-64Bit-Core-2016.11.23
+us-west-2	ami-f072df90	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2008_R2_SP3_Express-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Express 2008 AMI provided by Amazon
+us-west-2	ami-304fe250	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2012_SP2_Express-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-fc7ad79c	Windows_Server-2012-RTM-Turkish-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Turkish Base AMI provided by Amazon
+us-west-2	ami-fc75d89c	Windows_Server-2012-RTM-Swedish-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Swedish Base AMI provided by Amazon
+us-west-2	ami-9178d5f1	Windows_Server-2012-RTM-Spanish-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Spanish Base AMI provided by Amazon
+us-west-2	ami-b774d9d7	Windows_Server-2012-RTM-Russian-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Russian Base AMI provided by Amazon
+us-west-2	ami-9078d5f0	Windows_Server-2012-RTM-Portuguese_Portugal-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Portuguese Base AMI provided by Amazon
+us-west-2	ami-f97ad799	Windows_Server-2012-RTM-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Standard-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Brazilian with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-9e78d5fe	Windows_Server-2012-RTM-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Express-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Brazilian with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-f778d597	Windows_Server-2012-RTM-Portuguese_Brazil-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Portuguese Base AMI provided by Amazon
+us-west-2	ami-0f77da6f	Windows_Server-2012-RTM-Polish-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Polish Base AMI provided by Amazon
+us-west-2	ami-4f75d82f	Windows_Server-2012-RTM-Korean-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Korean Base AMI provided by Amazon
+us-west-2	ami-4d75d82d	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2014_SP1_Web-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-e27ad782	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2014_SP1_Standard-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-9878d5f8	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2014_SP1_Express-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-5174d931	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2012_SP2_Web-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Web 2012 AMI provided by Amazon
+us-west-2	ami-487bd628	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2012_SP2_Express-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-777bd617	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2008_R2_SP3_Standard-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-ee75d88e	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2008_R2_SP3_Express-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-4574d925	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2012_SP2_Standard-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-4474d924	Windows_Server-2012-RTM-Japanese-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese Base AMI provided by Amazon
+us-west-2	ami-8378d5e3	Windows_Server-2012-RTM-Italian-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Italian Base AMI provided by Amazon
+us-west-2	ami-ed75d88d	Windows_Server-2012-RTM-Hungarian-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Hungarian Base AMI provided by Amazon
+us-west-2	ami-8d7ad7ed	Windows_Server-2012-RTM-Dutch-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Dutch Base AMI provided by Amazon
+us-west-2	ami-a374d9c3	Windows_Server-2012-RTM-German-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale German Base AMI provided by Amazon
+us-west-2	ami-a274d9c2	Windows_Server-2012-RTM-Czech-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Czech Base AMI provided by Amazon
+us-west-2	ami-7e75d81e	Windows_Server-2012-RTM-French-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale French Base AMI provided by Amazon
+us-west-2	ami-fc7bd69c	Windows_Server-2012-RTM-Chinese_Traditional-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Chinese Traditional Base AMI provided by Amazon
+us-west-2	ami-707bd610	Windows_Server-2012-RTM-English-64Bit-SQL_2014_SP1_Web-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-eb7ad78b	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Standard-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-3e77da5e	Windows_Server-2012-RTM-Chinese_Traditional_Hong_Kong_SAR-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Chinese Traditional Hong Kong Base AMI provided by Amazon
+us-west-2	ami-ea7ad78a	Windows_Server-2012-RTM-English-64Bit-SQL_2014_SP1_Standard-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-9d79d4fd	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Express-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Express 2016 AMI provided by Amazon
+us-west-2	ami-3d77da5d	Windows_Server-2012-RTM-Chinese_Simplified-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale Chinese Simplified Base AMI provided by Amazon
+us-west-2	ami-fc78d59c	Windows_Server-2012-RTM-English-64Bit-SQL_2014_SP1_Express-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-8d78d5ed	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Enterprise-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Enterprise 2016 AMI provided by Amazon
+us-west-2	ami-e975d889	Windows_Server-2012-R2_RTM-Turkish-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Turkish AMI provided by Amazon
+us-west-2	ami-4b74d92b	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Web-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-af74d9cf	Windows_Server-2012-RTM-English-64Bit-SQL_2012_SP2_Web-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Web 2012 AMI provided by Amazon
+us-west-2	ami-b67ad7d6	Windows_Server-2012-R2_RTM-Swedish-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Swedish AMI provided by Amazon
+us-west-2	ami-e875d888	Windows_Server-2012-RTM-English-64Bit-SQL_2012_SP2_Standard-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-4974d929	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Standard-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-a475d8c4	Windows_Server-2012-R2_RTM-Spanish-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Spanish AMI provided by Amazon
+us-west-2	ami-b07ad7d0	Windows_Server-2012-RTM-English-64Bit-SQL_2012_SP2_Express-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-9879d4f8	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Express-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-8779d4e7	Windows_Server-2012-R2_RTM-Russian-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Russian AMI provided by Amazon
+us-west-2	ami-aa74d9ca	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Enterprise-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Enterprise 2014 AMI provided by Amazon
+us-west-2	ami-ef78d58f	Windows_Server-2012-RTM-English-64Bit-SQL_2008_R2_SP3_Web-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Web 2008 R2 AMI provided by Amazon
+us-west-2	ami-b678d5d6	Windows_Server-2012-R2_RTM-Portuguese_Portugal-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Portuguese AMI provided by Amazon
+us-west-2	ami-787bd618	Windows_Server-2012-R2_RTM-English-64Bit-Core-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English Core AMI provided by Amazon
+us-west-2	ami-e47bd684	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2016_Web-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-a075d8c0	Windows_Server-2012-RTM-English-64Bit-SQL_2008_R2_SP3_Standard-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-1c7ad77c	Windows_Server-2012-R2_RTM-English-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English AMI provided by Amazon
+us-west-2	ami-1b7ad77b	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2016_Standard-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-2577da45	Windows_Server-2012-RTM-English-64Bit-SQL_2008_R2_SP3_Express-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-e27bd682	Windows_Server-2012-R2_RTM-Dutch-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Dutch AMI provided by Amazon
+us-west-2	ami-b278d5d2	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2016_Express-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-e978d589	Windows_Server-2012-RTM-English-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 RTM 64-bit Locale English Base AMI provided by Amazon
+us-west-2	ami-6177da01	Windows_Server-2012-R2_RTM-Czech-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Czech AMI provided by Amazon
+us-west-2	ami-187ad778	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2014_SP1_Web-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-f27ed392	Windows_Server-2012-R2_RTM-Chinese_Traditional-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Chinese Traditional AMI provided by Amazon
+us-west-2	ami-a47ad7c4	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2014_SP1_Standard-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian AMI provided by Amazon
+us-west-2	ami-d67ed3b6	Windows_Server-2012-R2_RTM-Chinese_Traditional_Hong_Kong-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Chinese Traditional Hong Kong AMI provided by Amazon
+us-west-2	ami-d57ed3b5	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2014_SP1_Express-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian AMI provided by Amazon
+us-west-2	ami-a27ad7c2	Windows_Server-2012-R2_RTM-Chinese_Simplified-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Chinese Simplified AMI provided by Amazon
+us-west-2	ami-a17ad7c1	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian AMI provided by Amazon
+us-west-2	ami-057ad765	Windows_Server-2012-R2_RTM-Polish-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Polish AMI provided by Amazon
+us-west-2	ami-df7ed3bf	Windows_Server-2012-R2_RTM-Korean-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Korean AMI provided by Amazon
+us-west-2	ami-aa7ad7ca	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2016_Web-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-5778d537	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2016_Standard-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-fc7ed39c	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2016_Express-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Express 2016 AMI provided by Amazon
+us-west-2	ami-2974d949	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2014_SP1_Web-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-df79d4bf	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2014_SP1_Standard-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-a77bd6c7	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2014_SP1_Express-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-3a7ad75a	Windows_Server-2012-R2_RTM-Japanese-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese AMI provided by Amazon
+us-west-2	ami-dd7cd1bd	Windows_Server-2012-R2_RTM-Italian-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Italian AMI provided by Amazon
+us-west-2	ami-ec7ed38c	Windows_Server-2012-R2_RTM-Hungarian-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Hungarian AMI provided by Amazon
+us-west-2	ami-d37fd2b3	Windows_Server-2012-R2_RTM-German-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale German AMI provided by Amazon
+us-west-2	ami-877ed3e7	Windows_Server-2012-R2_RTM-French-64Bit-Base-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale French AMI provided by Amazon
+us-west-2	ami-0078d560	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Web-2016.11.09	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-2175d841	Windows_Server-2008-R2_SP1-Language_Packs-64Bit-SQL_2008_R2_SP3_Express-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Multi-Language with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-e0b21f80	Windows_Server-2016-English-Nano-Base-2016.11.09	Microsoft Windows Server 2016 Nano Locale English AMI provided by Amazon
+us-west-2	ami-0db61b6d	Windows_Server-2016-Italian-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Italian AMI provided by Amazon
+us-west-2	ami-70b11c10	Windows_Server-2016-Polish-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Polish AMI provided by Amazon
+us-west-2	ami-99b815f9	Windows_Server-2016-German-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale German AMI provided by Amazon
+us-west-2	ami-b4b71ad4	Windows_Server-2016-Chinese_Traditional-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Chinese_Traditional AMI provided by Amazon
+us-west-2	ami-b1b71ad1	Windows_Server-2016-Russian-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Russian AMI provided by Amazon
+us-west-2	ami-1bb4197b	Windows_Server-2016-Turkish-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Turkish AMI provided by Amazon
+us-west-2	ami-b9b71ad9	Windows_Server-2016-English-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale English AMI provided by Amazon
+us-west-2	ami-f1b51891	Windows_Server-2016-Japanese-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Japanese AMI provided by Amazon
+us-west-2	ami-9fba17ff	Windows_Server-2016-Chinese_Simplified-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Chinese_Simplified AMI provided by Amazon
+us-west-2	ami-e5ba1785	Windows_Server-2016-Swedish-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Swedish AMI provided by Amazon
+us-west-2	ami-06b41966	Windows_Server-2016-Czech-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Czech AMI provided by Amazon
+us-west-2	ami-2bb61b4b	Windows_Server-2016-French-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale French AMI provided by Amazon
+us-west-2	ami-9dbb16fd	Windows_Server-2016-Korean-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Korean AMI provided by Amazon
+us-west-2	ami-15b51875	Windows_Server-2016-Spanish-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Spanish AMI provided by Amazon
+us-west-2	ami-a2b71ac2	Windows_Server-2016-Dutch-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Dutch AMI provided by Amazon
+us-west-2	ami-fbb5189b	Windows_Server-2016-Portuguese_Portugal-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Portuguese_Portugal AMI provided by Amazon
+us-west-2	ami-03b41963	Windows_Server-2016-Portuguese_Brazil-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Portuguese_Brazil AMI provided by Amazon
+us-west-2	ami-13b51873	Windows_Server-2016-Hungarian-Full-Base-2016.11.09	Microsoft Windows Server 2016 with Desktop Experience Locale Hungarian AMI provided by Amazon
+us-west-2	ami-afba17cf	Windows_Server-2016-English-Full-Containers-2016.11.09	Microsoft Windows Server 2016 with Containers Locale English AMI provided by Amazon
+us-west-2	ami-cba409ab	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2008_R2_SP3_Standard-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit English with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-aca508cc	Windows_Server-2016-English-Full-SQL_2016_Express-2016.11.09	Microsoft Windows Server 2016 Locale English with SQL Express 2016 AMI provided by Amazon
+us-west-2	ami-60a70a00	Windows_Server-2016-English-Full-SQL_2016_Web-2016.11.09	Microsoft Windows Server 2016 Locale English with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-47a40927	Windows_Server-2016-English-Full-SQL_2016_Standard-2016.11.09	Microsoft Windows Server 2016 Locale English with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-ffab069f	Windows_Server-2016-English-Full-SQL_2016_Enterprise-2016.11.09	Microsoft Windows Server 2016 Locale English with SQL Enterprise 2016 AMI provided by Amazon
+us-west-2	ami-09d97469	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_SP2_Standard-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-7fc16c1f	Windows_Server-2008-R2_SP1-Korean-64Bit-Base-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Korean with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-acc26fcc	Windows_Server-2008-R2_SP1-Japanese-64Bit-Base-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese Base AMI provided by Amazon
+us-west-2	ami-2bc06d4b	Windows_Server-2008-R2_SP1-Language_Packs-64Bit-SQL_2008_R2_SP3_Standard-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Multi-language with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-45ca6725	Windows_Server-2008-R2_SP1-Chinese_PRC-64Bit-Base-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Chinese PRC Base AMI provided by Amazon
+us-west-2	ami-50cd6030	Windows_Server-2008-R2_SP1-English-64Bit-Core-2016.11.09	Microsoft Windows Server 2008 R2 Core SP1 Datacenter 64-bit Locale English AMI provided by Amazon
+us-west-2	ami-4df65b2d	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_RTM_SP2_Enterprise-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Enterprise 2012 SP2 AMI provided by Amazon
+us-west-2	ami-e8f65b88	Windows_Server-2008-SP2-Portuguese_Brazil-64bit-SQL_2008_SP4_Standard-2016.11.09	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Local Portuguese with SQL Standard 2008 AMI provided by Amazon
+us-west-2	ami-5efa573e	Windows_Server-2008-SP2-English-64Bit-SQL_2008_SP4_Standard-2016.11.09	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Locale English with SQL Standard 2008 AMI provided by Amazon
+us-west-2	ami-97f558f7	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2008_R2_SP3_Web-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Web 2008 R2 AMI provided by Amazon
+us-west-2	ami-baf15cda	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2008_R2_SP3_Standard-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-e9f55889	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Standard-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Portuguese with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-18f65b78	Windows_Server-2008-R2_SP1-English-64Bit-SharePoint_2010_SP2_Foundation-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SharePoint Foundation 2010 SP1
+us-west-2	ami-0ef5586e	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2012_SP2_Standard-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-d4f855b4	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2008_R2_SP3_Web-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Web 2008 R2 AMI provided by Amazon
+us-west-2	ami-39fa5759	Windows_Server-2008-SP2-Portuguese_Brazil-64Bit-SQL_2008_SP4_Express-2016.11.09	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Local Portuguese with SQL Express 2008 AMI provided by Amazon
+us-west-2	ami-e3f95483	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_SP2_Express-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-01fe5361	Windows_Server-2008-SP2-Portuguese_Brazil-64Bit-Base-2016.11.09	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Local Portuguese Base AMI provided by Amazon
+us-west-2	ami-7cf8551c	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_SP2_Web-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Web 2012 2012 64-bit provided by Amazon
+us-west-2	ami-3efb565e	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Express-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Portuguese with SQL Express 2008 R2 and IIS AMI provided by Amazon
+us-west-2	ami-e3ff5283	Windows_Server-2008-R2_SP1-Chinese_Hong_Kong_SAR-64Bit-Base-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Chinese Hong Kong SAR Base AMI provided by Amazon
+us-west-2	ami-efe24f8f	Windows_Server-2008-R2_SP1-Language_Packs-64Bit-Base-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Multi-language AMI provided by Amazon
+us-west-2	ami-08ff5268	Windows_Server-2008-SP2-English-64Bit-SQL_2008_SP4_Express-2016.11.09	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Locale English with SQL Express 2008 AMI provided by Amazon
+us-west-2	ami-66fe5306	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2008_R2_SP3_Express-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Express 2008 R2 and IIS AMI provided by Amazon
+us-west-2	ami-cce24fac	Windows_Server-2008-SP2-English-64Bit-Base-2016.11.09	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Locale English Base AMI provided by Amazon
+us-west-2	ami-62ff5202	Windows_Server-2008-R2_SP1-English-64Bit-Core_SQL_2012_SP2_Standard-2016.11.09	Microsoft Windows Server 2008 R2 Core SP1 Datacenter 64-bit Locale English with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-b7e34ed7	Windows_Server-2008-R2_SP1-English-64Bit-Base-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English Base AMI provided by Amazon
+us-west-2	ami-f0e64b90	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-Core-2016.11.09	Microsoft Windows Server 2008 R2 Core SP1 Datacenter 64-bit Local Portuguese AMI provided by Amazon
+us-west-2	ami-76fd5016	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-Base-2016.11.09	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Local Portuguese Base AMI provided by Amazon
+us-west-2	ami-bd3795dd	Windows_Server-2003-R2_SP2-Language_Packs-64Bit-SQL_2005_SP4_Standard-2016.11.09	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Multi-Language with SQL Standard 2005 AMI provided by Amazon
+us-west-2	ami-12349672	Windows_Server-2003-R2_SP2-Language_Packs-64Bit-SQL_2005_SP4_Express-2016.11.09	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Multi-Language with SQL Express 2005 and IIS AMI provided by Amazon
+us-west-2	ami-b73795d7	Windows_Server-2003-R2_SP2-Language_Packs-64Bit-Base-2016.11.09	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Multi-Language Base AMI provided by Amazon
+us-west-2	ami-c63391a6	Windows_Server-2003-R2_SP2-English-64Bit-SQL_2005_SP4_Standard-2016.11.09	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Locale English with SQL Standard 2005 AMI provided by Amazon
+us-west-2	ami-41319321	Windows_Server-2003-R2_SP2-English-64Bit-SQL_2005_SP4_Express-2016.11.09	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Locale English with SQL Express 2005 and IIS AMI provided by Amazon
+us-west-2	ami-953193f5	Windows_Server-2003-R2_SP2-English-64Bit-Base-2016.11.09	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Locale English Base AMI provided by Amazon
+us-west-2	ami-b92287d9	Windows_Server-2016-English-Full-SQL_2016_Express-2016.10.18	Microsoft Windows Server 2016 Locale English with SQL Express 2016 AMI provided by Amazon
+us-west-2	ami-69238609	Windows_Server-2016-English-Full-SQL_2016_Web-2016.10.18	Microsoft Windows Server 2016 Locale English with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-19208579	Windows_Server-2016-English-Full-SQL_2016_Standard-2016.10.18	Microsoft Windows Server 2016 Locale English with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-d52184b5	Windows_Server-2016-English-Full-SQL_2016_Enterprise-2016.10.18	Microsoft Windows Server 2016 Locale English with SQL Enterprise 2016 AMI provided by Amazon
+us-west-2	ami-9f5efbff	Windows_Server-2016-English-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale English AMI provided by Amazon
+us-west-2	ami-4e7dd82e	Windows_Server-2016-Russian-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Russian AMI provided by Amazon
+us-west-2	ami-ac7dd8cc	Windows_Server-2016-Japanese-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Japanese AMI provided by Amazon
+us-west-2	ami-7d7dd81d	Windows_Server-2016-Hungarian-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Hungarian AMI provided by Amazon
+us-west-2	ami-237cd943	Windows_Server-2016-German-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale German AMI provided by Amazon
+us-west-2	ami-a37dd8c3	Windows_Server-2016-French-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale French AMI provided by Amazon
+us-west-2	ami-1273d672	Windows_Server-2016-Dutch-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Dutch AMI provided by Amazon
+us-west-2	ami-da70d5ba	Windows_Server-2016-Czech-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Czech AMI provided by Amazon
+us-west-2	ami-237fda43	Windows_Server-2016-Chinese_Traditional-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Chinese_Traditional AMI provided by Amazon
+us-west-2	ami-5a76d33a	Windows_Server-2016-Chinese_Simplified-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Chinese_Simplified AMI provided by Amazon
+us-west-2	ami-5f74d13f	Windows_Server-2016-Turkish-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Turkish AMI provided by Amazon
+us-west-2	ami-8871d4e8	Windows_Server-2016-Swedish-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Swedish AMI provided by Amazon
+us-west-2	ami-2373d643	Windows_Server-2016-Spanish-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Spanish AMI provided by Amazon
+us-west-2	ami-5a74d13a	Windows_Server-2016-Portuguese_Portugal-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Portuguese_Portugal AMI provided by Amazon
+us-west-2	ami-bc71d4dc	Windows_Server-2016-Portuguese_Brazil-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Portuguese_Brazil AMI provided by Amazon
+us-west-2	ami-6b76d30b	Windows_Server-2016-Polish-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Polish AMI provided by Amazon
+us-west-2	ami-ae71d4ce	Windows_Server-2016-Korean-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Korean AMI provided by Amazon
+us-west-2	ami-5e6bce3e	Windows_Server-2016-English-Full-Containers-2016.10.18	Microsoft Windows Server 2016 with Containers Locale English AMI provided by Amazon
+us-west-2	ami-2a66c34a	Windows_Server-2016-Italian-Full-Base-2016.10.18	Microsoft Windows Server 2016 with Desktop Experience Locale Italian AMI provided by Amazon
+us-west-2	ami-d49a3fb4	Windows_Server-2016-English-Nano-Base-2016.10.18	Microsoft Windows Server 2016 Nano Locale English AMI provided by Amazon
+us-west-2	ami-04a07a64	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2008_R2_SP3_Express-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Express 2008 R2 and IIS AMI provided by Amazon
+us-west-2	ami-aa72a9ca	Windows_Server-2012-RTM-Turkish-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Turkish Base AMI provided by Amazon
+us-west-2	ami-fb76ad9b	Windows_Server-2012-RTM-Swedish-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Swedish Base AMI provided by Amazon
+us-west-2	ami-2e70ab4e	Windows_Server-2012-RTM-Spanish-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Spanish Base AMI provided by Amazon
+us-west-2	ami-fa76ad9a	Windows_Server-2012-RTM-Russian-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Russian Base AMI provided by Amazon
+us-west-2	ami-0476ad64	Windows_Server-2012-RTM-Portuguese_Portugal-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Portuguese Base AMI provided by Amazon
+us-west-2	ami-5575ae35	Windows_Server-2012-RTM-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Standard-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Brazilian with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-4f74af2f	Windows_Server-2012-RTM-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Express-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Brazilian with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-5475ae34	Windows_Server-2012-RTM-Portuguese_Brazil-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Portuguese Base AMI provided by Amazon
+us-west-2	ami-3070ab50	Windows_Server-2012-RTM-Polish-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Polish Base AMI provided by Amazon
+us-west-2	ami-e071aa80	Windows_Server-2012-RTM-Korean-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Korean Base AMI provided by Amazon
+us-west-2	ami-9270abf2	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2014_SP1_Web-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-1d75ae7d	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2014_SP1_Standard-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-9470abf4	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2014_SP1_Express-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-1c75ae7c	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2012_SP2_Web-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Web 2012 AMI provided by Amazon
+us-west-2	ami-1f75ae7f	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2012_SP2_Standard-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-e371aa83	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2012_SP2_Express-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-5074af30	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2008_R2_SP3_Standard-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-1e75ae7e	Windows_Server-2012-RTM-Japanese-64Bit-SQL_2008_R2_SP3_Express-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-3171aa51	Windows_Server-2012-RTM-Japanese-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Japanese Base AMI provided by Amazon
+us-west-2	ami-ac72a9cc	Windows_Server-2012-RTM-Italian-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Italian Base AMI provided by Amazon
+us-west-2	ami-9770abf7	Windows_Server-2012-RTM-Hungarian-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Hungarian Base AMI provided by Amazon
+us-west-2	ami-3071aa50	Windows_Server-2012-RTM-German-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale German Base AMI provided by Amazon
+us-west-2	ami-3370ab53	Windows_Server-2012-RTM-French-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale French Base AMI provided by Amazon
+us-west-2	ami-e172a981	Windows_Server-2012-RTM-English-64Bit-SQL_2014_SP1_Web-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-0976ad69	Windows_Server-2012-RTM-English-64Bit-SQL_2014_SP1_Standard-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-af71aacf	Windows_Server-2012-RTM-English-64Bit-SQL_2014_SP1_Express-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-5574af35	Windows_Server-2012-RTM-English-64Bit-SQL_2012_SP2_Web-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Web 2012 AMI provided by Amazon
+us-west-2	ami-0b76ad6b	Windows_Server-2012-RTM-English-64Bit-SQL_2012_SP2_Standard-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-5975ae39	Windows_Server-2012-RTM-English-64Bit-SQL_2012_SP2_Express-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-0a76ad6a	Windows_Server-2012-RTM-English-64Bit-SQL_2008_R2_SP3_Web-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Web 2008 R2 AMI provided by Amazon
+us-west-2	ami-3570ab55	Windows_Server-2012-RTM-English-64Bit-SQL_2008_R2_SP3_Standard-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-ac70abcc	Windows_Server-2012-RTM-English-64Bit-SQL_2008_R2_SP3_Express-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale English with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-af70abcf	Windows_Server-2012-RTM-English-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale English Base AMI provided by Amazon
+us-west-2	ami-3277ac52	Windows_Server-2012-RTM-Dutch-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Dutch Base AMI provided by Amazon
+us-west-2	ami-fe76ad9e	Windows_Server-2012-RTM-Czech-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Czech Base AMI provided by Amazon
+us-west-2	ami-e571aa85	Windows_Server-2012-RTM-Chinese_Traditional-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Chinese Traditional Base AMI provided by Amazon
+us-west-2	ami-9a70abfa	Windows_Server-2012-RTM-Chinese_Traditional_Hong_Kong_SAR-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Chinese Traditional Hong Kong Base AMI provided by Amazon
+us-west-2	ami-6076ad00	Windows_Server-2012-RTM-Chinese_Simplified-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 RTM 64-bit Locale Chinese Simplified Base AMI provided by Amazon
+us-west-2	ami-5a75ae3a	Windows_Server-2012-R2_RTM-Turkish-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Turkish AMI provided by Amazon
+us-west-2	ami-3577ac55	Windows_Server-2012-R2_RTM-Swedish-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Swedish AMI provided by Amazon
+us-west-2	ami-3571aa55	Windows_Server-2012-R2_RTM-Spanish-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Spanish AMI provided by Amazon
+us-west-2	ami-6376ad03	Windows_Server-2012-R2_RTM-Russian-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Russian AMI provided by Amazon
+us-west-2	ami-b071aad0	Windows_Server-2012-R2_RTM-Portuguese_Portugal-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Portuguese AMI provided by Amazon
+us-west-2	ami-b371aad3	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2016_Web-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-6276ad02	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2016_Standard-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-5d75ae3d	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2016_Express-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-9d70abfd	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2014_SP1_Web-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-e173a881	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2014_SP1_Standard-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian AMI provided by Amazon
+us-west-2	ami-9c70abfc	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-SQL_2014_SP1_Express-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian AMI provided by Amazon
+us-west-2	ami-b270abd2	Windows_Server-2012-R2_RTM-Portuguese_Brazil-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Brazilian AMI provided by Amazon
+us-west-2	ami-6576ad05	Windows_Server-2012-R2_RTM-Polish-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Polish AMI provided by Amazon
+us-west-2	ami-b570abd5	Windows_Server-2012-R2_RTM-Korean-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Korean AMI provided by Amazon
+us-west-2	ami-5f75ae3f	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2016_Web-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-e972a989	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2016_Standard-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-3d70ab5d	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2016_Express-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Express 2016 AMI provided by Amazon
+us-west-2	ami-5874af38	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2014_SP1_Web-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-9f70abff	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2014_SP1_Standard-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-b470abd4	Windows_Server-2012-R2_RTM-Japanese-64Bit-SQL_2014_SP1_Express-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-e273a882	Windows_Server-2012-R2_RTM-Japanese-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Japanese AMI provided by Amazon
+us-west-2	ami-5b74af3b	Windows_Server-2012-R2_RTM-Italian-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Italian AMI provided by Amazon
+us-west-2	ami-3c70ab5c	Windows_Server-2012-R2_RTM-Hungarian-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Hungarian AMI provided by Amazon
+us-west-2	ami-e971aa89	Windows_Server-2012-R2_RTM-German-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale German AMI provided by Amazon
+us-west-2	ami-c076ada0	Windows_Server-2012-R2_RTM-French-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale French AMI provided by Amazon
+us-west-2	ami-b272a9d2	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Web-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Web 2016 AMI provided by Amazon
+us-west-2	ami-5a74af3a	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Standard-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Standard 2016 AMI provided by Amazon
+us-west-2	ami-6b76ad0b	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Express-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Express 2016 AMI provided by Amazon
+us-west-2	ami-c276ada2	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2016_Enterprise-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Enterprise 2016 AMI provided by Amazon
+us-west-2	ami-3977ac59	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Web-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Web 2014 AMI provided by Amazon
+us-west-2	ami-3877ac58	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Standard-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Standard 2014 AMI provided by Amazon
+us-west-2	ami-b671aad6	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Express-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Express 2014 AMI provided by Amazon
+us-west-2	ami-b670abd6	Windows_Server-2012-R2_RTM-English-64Bit-SQL_2014_SP1_Enterprise-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English with SQL Enterprise 2014 AMI provided by Amazon
+us-west-2	ami-b971aad9	Windows_Server-2012-R2_RTM-English-64Bit-Core-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English Core AMI provided by Amazon
+us-west-2	ami-b871aad8	Windows_Server-2012-R2_RTM-English-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale English AMI provided by Amazon
+us-west-2	ami-1076ad70	Windows_Server-2012-R2_RTM-Dutch-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Dutch AMI provided by Amazon
+us-west-2	ami-9b7ca7fb	Windows_Server-2012-R2_RTM-Czech-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Czech AMI provided by Amazon
+us-west-2	ami-3a77ac5a	Windows_Server-2012-R2_RTM-Chinese_Traditional-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Chinese Traditional AMI provided by Amazon
+us-west-2	ami-1276ad72	Windows_Server-2012-R2_RTM-Chinese_Traditional_Hong_Kong-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Chinese Traditional Hong Kong AMI provided by Amazon
+us-west-2	ami-c476ada4	Windows_Server-2012-R2_RTM-Chinese_Simplified-64Bit-Base-2016.10.12	Microsoft Windows Server 2012 R2 RTM 64-bit Locale Chinese Simplified AMI provided by Amazon
+us-west-2	ami-2077ac40	Windows_Server-2008-SP2-Portuguese_Brazil-64bit-SQL_2008_SP4_Standard-2016.10.12	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Local Portuguese with SQL Standard 2008 AMI provided by Amazon
+us-west-2	ami-bb71aadb	Windows_Server-2008-SP2-Portuguese_Brazil-64Bit-SQL_2008_SP4_Express-2016.10.12	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Local Portuguese with SQL Express 2008 AMI provided by Amazon
+us-west-2	ami-2377ac43	Windows_Server-2008-SP2-Portuguese_Brazil-64Bit-Base-2016.10.12	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Local Portuguese Base AMI provided by Amazon
+us-west-2	ami-2072a940	Windows_Server-2008-SP2-English-64Bit-SQL_2008_SP4_Standard-2016.10.12	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Locale English with SQL Standard 2008 AMI provided by Amazon
+us-west-2	ami-b672a9d6	Windows_Server-2008-SP2-English-64Bit-SQL_2008_SP4_Express-2016.10.12	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Locale English with SQL Express 2008 AMI provided by Amazon
+us-west-2	ami-b970abd9	Windows_Server-2008-SP2-English-64Bit-Base-2016.10.12	Microsoft Windows Server 2008 SP2 Datacenter 64-bit Locale English Base AMI provided by Amazon
+us-west-2	ami-c976ada9	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Standard-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Portuguese with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-ed71aa8d	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-SQL_2008_R2_SP3_Express-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Portuguese with SQL Express 2008 R2 and IIS AMI provided by Amazon
+us-west-2	ami-c876ada8	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-Core-2016.10.12	Microsoft Windows Server 2008 R2 Core SP1 Datacenter 64-bit Local Portuguese AMI provided by Amazon
+us-west-2	ami-3f77ac5f	Windows_Server-2008-R2_SP1-Portuguese_Brazil-64Bit-Base-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Local Portuguese Base AMI provided by Amazon
+us-west-2	ami-a373a8c3	Windows_Server-2008-R2_SP1-Language_Packs-64Bit-SQL_2008_R2_SP3_Standard-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Multi-language with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-1976ad79	Windows_Server-2008-R2_SP1-Language_Packs-64Bit-SQL_2008_R2_SP3_Express-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Multi-Language with SQL Express 2008 R2 AMI provided by Amazon
+us-west-2	ami-a573a8c5	Windows_Server-2008-R2_SP1-Language_Packs-64Bit-Base-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Multi-language AMI provided by Amazon
+us-west-2	ami-2577ac45	Windows_Server-2008-R2_SP1-Korean-64Bit-Base-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Korean with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-bb70abdb	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2012_SP2_Standard-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-e973a889	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2012_SP2_Express-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-2472a944	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2008_R2_SP3_Web-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Web 2008 R2 AMI provided by Amazon
+us-west-2	ami-e873a888	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2008_R2_SP3_Standard-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-ba70abda	Windows_Server-2008-R2_SP1-Japanese-64Bit-SQL_2008_R2_SP3_Express-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese with SQL Express 2008 AMI provided by Amazon
+us-west-2	ami-eb73a88b	Windows_Server-2008-R2_SP1-Japanese-64Bit-Base-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Japanese Base AMI provided by Amazon
+us-west-2	ami-ca76adaa	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_SP2_Web-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Web 2012 2012 64-bit provided by Amazon
+us-west-2	ami-1a76ad7a	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_SP2_Standard-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-bb72a9db	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_SP2_Express-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Express 2012 AMI provided by Amazon
+us-west-2	ami-be71aade	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2012_RTM_SP2_Enterprise-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Enterprise 2012 SP2 AMI provided by Amazon
+us-west-2	ami-2772a947	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2008_R2_SP3_Web-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SQL Web 2008 R2 AMI provided by Amazon
+us-west-2	ami-0670ab66	Windows_Server-2008-R2_SP1-English-64Bit-SQL_2008_R2_SP3_Standard-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit English with SQL Standard 2008 R2 AMI provided by Amazon
+us-west-2	ami-0970ab69	Windows_Server-2008-R2_SP1-English-64Bit-SharePoint_2010_SP2_Foundation-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English with SharePoint Foundation 2010 SP1
+us-west-2	ami-0077ac60	Windows_Server-2008-R2_SP1-English-64Bit-Core-2016.10.12	Microsoft Windows Server 2008 R2 Core SP1 Datacenter 64-bit Locale English AMI provided by Amazon
+us-west-2	ami-6b71aa0b	Windows_Server-2008-R2_SP1-English-64Bit-Core_SQL_2012_SP2_Standard-2016.10.12	Microsoft Windows Server 2008 R2 Core SP1 Datacenter 64-bit Locale English with SQL Standard 2012 AMI provided by Amazon
+us-west-2	ami-ce76adae	Windows_Server-2008-R2_SP1-English-64Bit-Base-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale English Base AMI provided by Amazon
+us-west-2	ami-ed73a88d	Windows_Server-2008-R2_SP1-Chinese_PRC-64Bit-Base-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Chinese PRC Base AMI provided by Amazon
+us-west-2	ami-d176adb1	Windows_Server-2008-R2_SP1-Chinese_Hong_Kong_SAR-64Bit-Base-2016.10.12	Microsoft Windows Server 2008 R2 SP1 Datacenter 64-bit Locale Chinese Hong Kong SAR Base AMI provided by Amazon
+us-west-2	ami-0870ab68	Windows_Server-2003-R2_SP2-Language_Packs-64Bit-SQL_2005_SP4_Standard-2016.10.12	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Multi-Language with SQL Standard 2005 AMI provided by Amazon
+us-west-2	ami-be70abde	Windows_Server-2003-R2_SP2-Language_Packs-64Bit-SQL_2005_SP4_Express-2016.10.12	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Multi-Language with SQL Express 2005 and IIS AMI provided by Amazon
+us-west-2	ami-9f7ca7ff	Windows_Server-2003-R2_SP2-Language_Packs-64Bit-Base-2016.10.12	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Multi-Language Base AMI provided by Amazon
+us-west-2	ami-a973a8c9	Windows_Server-2003-R2_SP2-English-64Bit-SQL_2005_SP4_Standard-2016.10.12	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Locale English with SQL Standard 2005 AMI provided by Amazon
+us-west-2	ami-d376adb3	Windows_Server-2003-R2_SP2-English-64Bit-SQL_2005_SP4_Express-2016.10.12	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Locale English with SQL Express 2005 and IIS AMI provided by Amazon
+us-west-2	ami-ee71aa8e	Windows_Server-2003-R2_SP2-English-64Bit-Base-2016.10.12	Microsoft Windows Server 2003 R2 SP2 Datacenter 64-bit Locale English Base AMI provided by Amazon

@@ -1,0 +1,89 @@
+Prod_Hadoop_Master2
+i-02531fde4a8e45b04
+r3.2xlarge
+us-west-2b
+ running
+ 2/2 checks passed
+None
+-
+itsops_id_rsa
+enabled
+June 1, 2016 at 1:39:19 PM UTC-6
+Hadoop_Port_Range_Internal, v2-GlobalManagement, RA20-Prod-hdp-SC, InternalFullAccess
+Prod_Hadoop_Master3
+i-02542283fca1c2ad9
+r3.2xlarge
+us-west-2b
+ running
+ 2/2 checks passed
+None
+-
+itsops_id_rsa
+enabled
+June 1, 2016 at 1:39:19 PM UTC-6
+Hadoop_Port_Range_Internal, v2-GlobalManagement, RA20-Prod-hdp-SC, InternalFullAccess
+Prod_Hadoop_DN4
+i-02956a0ea68f322f1
+r3.4xlarge
+us-west-2b
+ running
+ 2/2 checks passed
+None
+-
+itsops_id_rsa
+enabled
+June 1, 2016 at 1:33:26 PM UTC-6
+Hadoop_Port_Range_Internal, v2-GlobalManagement, RA20-Prod-hdp-SC
+Prod_Hadoop_DN3
+i-09b4054114c339c69
+r3.4xlarge
+us-west-2b
+ running
+ 2/2 checks passed
+None
+-
+itsops_id_rsa
+enabled
+June 1, 2016 at 1:33:26 PM UTC-6
+Hadoop_Port_Range_Internal, v2-GlobalManagement, RA20-Prod-hdp-SC
+Prod_Hadoop_DN2
+i-0a0cd4e1e11a29333
+r3.4xlarge
+us-west-2b
+ running
+ 2/2 checks passed
+None
+-
+itsops_id_rsa
+enabled
+June 1, 2016 at 1:33:26 PM UTC-6
+Hadoop_Port_Range_Internal, v2-GlobalManagement, RA20-Prod-hdp-SC
+Prod_Hadoop_DN5
+i-0f2aabbf625669400
+r3.4xlarge
+us-west-2b
+ running
+ 2/2 checks passed
+None
+-
+itsops_id_rsa
+enabled
+June 1, 2016 at 1:33:26 PM UTC-6
+Hadoop_Port_Range_Internal, v2-GlobalManagement, RA20-Prod-hdp-SC
+Prod_Hadoop_DN1
+i-0daa8953605561562
+r3.4xlarge
+us-west-2b
+ running
+ 2/2 checks passed
+None
+-
+itsops_id_rsa
+enabled
+June 1, 2016 at 12:10:47 PM UTC-6
+Hadoop_Port_Range_Internal, v2-GlobalManagement, RA20-Prod-hdp-SC
+Prod_Hadoop_Master1
+i-07d961189fecdeea5
+r3.2xlarge
+us-west-2b
+ running
