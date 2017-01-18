@@ -1,2 +1,2 @@
 #!/bin/bash
-aws sns list-topics > sns-list-topics.output
+aws sns list-topics > /tmp/sns-list-topics.output
